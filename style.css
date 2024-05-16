@@ -3,6 +3,11 @@ body {
     color: white;
 }
 
+
+p {
+    color: red;
+    font-style: italic;
+}
 h1 {
     color: aliceblue;
     font-weight: bolder;
